@@ -4,7 +4,7 @@
 
 - Inhalt der zweiten Seite
 - Inhalt der zweiten Seite
-- Inhalt der zweiten Seite
+- Wurde geändert
 - Inhalt der zweiten Seite
 - Inhalt der zweiten Seite
 - Inhalt der zweiten Seite
